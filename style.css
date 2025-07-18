@@ -1,0 +1,31 @@
+@import url("style/header.css");
+@import url("style/main.css");
+@import url("style/informações.css");
+@import url("style/vagas.css");
+@import url("style/colaboradora.css");
+@import url("style/footer.css");
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --cinza:#3A404E;
+    --branco:#ffffff;
+    --destaque:#8E2424;
+    --cinza-claro:#667085;
+    --texto-fonte:"inter";
+    --cinza-escuro:#101828;
+    --cor-de-fundo:#C3191908;
+    --border:#D0D5DD;
+}
+
+body{
+    background-color:var(--branco);
+    font-size: 16px;
+    font-family: var(--texto-fonte);
+    font-weight: 400;
+}
+

@@ -1,0 +1,70 @@
+.vaga{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 3em 0;
+    padding: 4rem 2rem;
+    
+}
+
+.tag__vaga{
+    font-weight: 500;
+    font-size:14px;
+    color: var(--destaque);
+  border: 7px solid  #ffdfd4;
+  background-color: #ffdfd4;
+  border-radius: 12px;
+}
+.vaga__titulo{
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--cinza);
+    margin: 0.5em 0;
+}
+.vaga__texto{
+    font-size: 20px;
+    color: var(--cinza-claro);
+    margin-bottom: 3em;
+}
+
+.contratações{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+   
+    
+ }
+ 
+ .contratações__titulo{
+     font-weight: 500;
+     font-size: 20px;
+     color:var(--cinza-escuro);
+     padding-bottom: 2em;
+     margin-top: 1em;
+   
+ }
+ 
+ .contratações__subtitulo{
+     display: block;
+ font-weight: 500;
+ font-size: 18px;
+ color: var(--cinza-escuro);
+ margin-top: 20px;
+ padding-bottom: 2em;
+ 
+ }
+
+ .contratações__informacoes{
+    font-weight: 500;
+    color: var(--cinza-claro);
+ }
+
+.ocupacoes{
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    background-color: #fff;
+    
+}

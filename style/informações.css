@@ -1,0 +1,32 @@
+.informacoes{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    gap: 2em;
+    padding:4em 2em;
+    margin: 0 auto;
+}
+
+.informacoes__dados{
+    display: flex;
+    flex-direction: column;
+   gap: 1em;
+   padding: 4em;
+   
+}
+.informacoes__dados--titulo{
+    font-weight: 600;
+    font-size:60px;
+    color: var(--destaque);
+}
+.informacoes__dados--subtitulo{
+    font-weight: 500;
+    size: 16px;
+    color: var(--cinza);
+}
+.informacoes__dados--texto{
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--cinza-claro);
+   
+   
+}

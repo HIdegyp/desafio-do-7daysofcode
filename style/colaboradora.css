@@ -1,0 +1,39 @@
+.colaboradores__info {
+    display: flex;
+    justify-content: center;  /* Centraliza horizontalmente */
+    align-items: center;      /* Alinha verticalmente se tiver altura */
+    text-align: center;
+    padding: 4rem 2rem;        /* Espaçamento interno */
+  }
+  
+.colaboradores__card{
+   background-color: var(--cor-de-fundo);
+}
+
+  .colaboradores__texto-vermelho{
+    font-weight:600;
+    color: var(--destaque);
+    padding-bottom: 1em;
+    font-size: 14px;
+  }
+  .colaboradores__titulo{
+    font-weight: 500;
+    font-size: 36px;
+    color: var(--cinza-escuro);
+    padding-bottom: 1em;
+  }
+  .colaboradores__nome{
+    font-size: 500;
+    color: var(--cinza-escuro);
+    padding-bottom:1em;
+  }
+  .colaboradores__texto{
+font-size:14px;
+font-weight: 400;
+color: var(--cinza-claro);
+border-radius: 8em;
+padding: 2em;
+  }
+
+  
+ 
