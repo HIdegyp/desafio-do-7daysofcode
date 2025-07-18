@@ -23,7 +23,7 @@ Ter a oportunidade de colocar a mão na massa e construir um layout realista, se
 
 ## 🔗 Acesse o projeto
 
-[➡️ Clique aqui para ver o site rodando]()
+[➡️ Clique aqui para ver o site rodando](https://hidegyp.github.io/desafio-do-7daysofcode/)
 
 
 
